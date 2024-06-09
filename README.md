@@ -1,5 +1,15 @@
 # Snap Packaging for scrcpy
 
+## History
+
+This package is forked from [sisco311/scrcpy-snap i](https://github.com/sisco311/scrcpy-snap).
+
+Unfortunately, that repository is not up to date, and so the scrcpy version available in the snap store is outdated and does not work nicely with newer devices.
+
+My current plans are only to have an updated version for myself and not to release it to the snap store.
+
+-----
+
 **This is a snap for scrcpy**, *"Display and control your Android device"*. It works on Ubuntu, Fedora, Debian, and other major Linux distributions.
 
 
